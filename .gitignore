@@ -1,0 +1,11 @@
+# secrets
+credentials.json
+sa.json
+
+token.pickle
+
+.idea
+.idea/**
+
+__pychache__
+
